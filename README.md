@@ -36,6 +36,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 5.Repeat steps 2-4 for each bit you want to input and shift.
 
 **PROGRAM**
+
 ```
 Developed by: NIthishwar S
 RegisterNumber: 212221230071
@@ -57,10 +58,13 @@ endmodule
 ```
 
 **RTL LOGIC FOR SISO Shift Register**
+
 ![image](https://github.com/BIDHISHA10/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/152273292/4bd0e58a-e828-4fcf-80bf-73744052bcfd)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
+
 ![image](https://github.com/BIDHISHA10/SERIAL-IN-SERIAL-OUT-SHIFTREGISTER/assets/152273292/fe0fc1d2-2501-4b8a-8195-4f53a84085c7)
 
 **RESULTS**
+
 SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
